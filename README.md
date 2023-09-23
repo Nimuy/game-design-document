@@ -1,5 +1,6 @@
 # "Ej mordo, flanki?"
 
+![FlankiLogo](https://github.com/Nimuy/game-design-document/blob/master/GDD/Grafika/obraz.png?raw=true-)
 
 ## Opis świata Gry
 
