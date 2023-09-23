@@ -12,8 +12,9 @@ drużyna studentów grająca we flanki
 
 ## Grafiki koncepcyjne
 
-*notatka dla scrum mastera*
-jak wkleić grafike do pliku .md wtf
+![nociekawejakiepiwo](https://github.com/Nimuy/game-design-document/blob/master/GDD/Grafika/obraz1.png?raw=true)
+
+![nociekawejakiepiwo2](https://github.com/Nimuy/game-design-document/blob/master/GDD/Grafika/obraz2.png?raw=true)
 
 ## Gatunek oraz Styl
 
